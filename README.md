@@ -1,3 +1,2 @@
 - 👋 Hi, I’m [Liangyu Li ( @MonoHue )](https://github.com/MonoHue) .
-- 📔 I sometimes write something new on my blog [monohue.net](https://monohue.net).
 - 📥 You can always reach me via [me@monohue.net](mailto:me@monohue.net).
